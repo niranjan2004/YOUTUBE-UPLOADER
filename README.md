@@ -115,11 +115,3 @@ This project is actively maintained and will continue so until I'm tired of it.
 ### Video Tutorial
 
 Here's a YouTube tutorial video for deploying the bot on [Heroku](https://heroku.com/ "Heroku"). [Video Link](http://www.youtube.com/watch?v=LSs8b5dMWIA "Tutorial video for deploying to Heroku").
-
-### Contact
-
-You can contact me [@odysseusmax](https://telegram.dog/odysseusmax "odysseusmax").
-
-### License
-
-Code released under [GNU General Public License v3.0](LICENSE).
